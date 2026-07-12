@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Global styles */
+body {
+  margin: 0;
+  background: #0a0a0a;
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+/* Headings */
+.font-serif {
+  font-family: "Playfair Display", serif;
+}
+
