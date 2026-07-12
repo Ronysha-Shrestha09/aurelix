@@ -1,4 +1,4 @@
-import HeroWatch from "../assets/images/hero-watch.png";
+import HeroWatch from "../assets/images/hero-watch.jpg";
 import { motion } from "framer-motion";
 import {
   fadeLeft,

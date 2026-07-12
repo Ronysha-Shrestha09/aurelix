@@ -1,6 +1,6 @@
-import Watch1 from "../assets/images/watch1.png";
-import Watch2 from "../assets/images/watch2.png";
-import Watch3 from "../assets/images/watch3.png";
+import Watch1 from "../assets/images/watch1.jpg";
+import Watch2 from "../assets/images/watch2.jpg";
+import Watch3 from "../assets/images/watch3.jpg";
 
 import { motion } from "framer-motion";
 import { containerVariants, fadeUp } from "../animations/variants";

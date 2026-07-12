@@ -1,4 +1,4 @@
-import StoryWatch from "../assets/images/story-watch.png";
+import StoryWatch from "../assets/images/story-watch.jpg";
 import { motion } from "framer-motion";
 import {
   fadeLeft,

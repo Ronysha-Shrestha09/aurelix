@@ -1,6 +1,6 @@
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
-import StoryWatch from "../assets/images/story-watch.png";
+import StoryWatch from "../assets/images/story-watch.jpg";
 
 export default function Parallax() {
   const ref = useRef(null);
